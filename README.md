@@ -1,2 +1,2 @@
 # 2d-shooting
-making a 2D shooting game
+Making a 2D shooting game
